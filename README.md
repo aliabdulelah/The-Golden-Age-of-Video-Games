@@ -9,7 +9,7 @@
 - [Project Overview](#project-Overview)
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
-- [ Data Cleaning / Preparation](#Data-Cleaning-/-Preparation)
+- [ Data Cleaning / Preparation](#Data-Cleaning-Preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Results/Findings](#Data-Analysis-Results-Findings)
 
@@ -61,7 +61,7 @@ For the "reviews" table :
 <br>
 <be>
 
-### Data Cleaning / Preparation 
+### Data Cleaning Preparation 
 
  In the initial data preparation phase, we performed the following tasks:
 
@@ -91,6 +91,7 @@ For the "reviews" table :
 
 <br>
 <be>
+  
  ### Data Analysis Results Findings
 
 1. The ten best-selling video games
