@@ -9,7 +9,7 @@
 - [Project Overview](#project-Overview)
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
-- [ Data Cleaning / Preparation](#Data-Cleaning-Preparation)
+- [Data Cleaning / Preparation](#Data-Cleaning-Preparation )
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Results/Findings](#Data-Analysis-Results-Findings)
 
@@ -89,10 +89,9 @@ For the "reviews" table :
    
 
 
-<br>
-<be>
   
  ### Data Analysis Results Findings
+
 
 1. The ten best-selling video games
 Let's begin by looking at some of the top-selling video games of all time!
