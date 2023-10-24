@@ -54,7 +54,7 @@ For the "reviews" table :
 <be>
 
 ### Tools 
-- PostgreSQL - Data Cleaning
+- Excel - Data Cleaning
 - PostgreSQL - Data Analysis
 
 
